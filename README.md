@@ -13,4 +13,4 @@ https://blog.csdn.net/LJXZDN/article/details/81229925
 `ETL.py为数据处理`<Br/>
 `AnalysisMap为地图`<Br/>
 `AnalysisWordCloud为词云图`<Br/>
-`RoseDiaGram`为玫瑰图
+`RoseDiaGram为玫瑰图`
