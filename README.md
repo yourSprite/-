@@ -4,3 +4,8 @@ https://mp.weixin.qq.com/s__biz=MzA5MzY4NTQwMA==&mid=2651005324&idx=1&sn=b26deb8
 与
 https://blog.csdn.net/LJXZDN/article/details/81229925
 学习数据分析
+其中有两个坑点
+1.pyecharts错误ValueError: No coordinate is specified for XX(某地名)
+解决办法详见pdf
+2.WordCloud词云包的安装
+解决办法详见pdf
