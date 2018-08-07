@@ -11,6 +11,6 @@ https://blog.csdn.net/LJXZDN/article/details/81229925
 解决办法详见pdf<Br/>
 `Spider.py为爬虫`<Br/>
 `ETL.py为数据处理`<Br/>
-`AnalysisMap为地图`<Br/>
-`AnalysisWordCloud为词云图`<Br/>
-`RoseDiaGram为玫瑰图`
+`AnalysisMap.py为地图`<Br/>
+`AnalysisWordCloud.py为词云图`<Br/>
+`RoseDiaGram.py为玫瑰图`
