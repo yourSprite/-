@@ -10,7 +10,7 @@ https://blog.csdn.net/LJXZDN/article/details/81229925
 2.WordCloud词云包的安装<Br/>
 解决办法详见pdf<Br/>
 `Spider.py为爬虫`<Br/>
-```ETL.py为数据处理```<Br/>
-AnalysisMap为地图<Br/>
-AnalysisWordCloud为词云图<Br/>
-RoseDiaGram为玫瑰图
+`ETL.py为数据处理`<Br/>
+`AnalysisMap为地图`<Br/>
+`AnalysisWordCloud为词云图`<Br/>
+`RoseDiaGram`为玫瑰图
