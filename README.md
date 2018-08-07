@@ -7,10 +7,12 @@ https://blog.csdn.net/LJXZDN/article/details/81229925
 其中有两个坑点<Br/>
 1.pyecharts错误ValueError: No coordinate is specified for XX(某地名)<Br/>
 解决办法详见pdf<Br/>
-2.WordCloud词云包的安装<Br/>
+2.WordCloud词云包的安装（制作词云图一定要用字体，这里用的是simhei.ttf）<Br/>
 解决办法详见pdf<Br/>
 `Spider.py为爬虫`<Br/>
 `ETL.py为数据处理`<Br/>
 `AnalysisMap.py为地图`<Br/>
 `AnalysisWordCloud.py为词云图`<Br/>
 `RoseDiaGram.py为玫瑰图`
+`xie_zheng.txt为爬取数据`
+`xie_zheng——result.txt为处理后数据`
